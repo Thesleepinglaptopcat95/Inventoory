@@ -1,0 +1,9 @@
+{
+"theme_color" : "#72f635"
+"background_color": "#f69435"
+"display": "browser"
+"scope": "/"
+"start_url": "/http://127.0.0.1:3005/"
+"name": "Inventoory"
+"short_name": "Inventoory"
+}
